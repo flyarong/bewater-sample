@@ -6,10 +6,10 @@
 	url = https://github.com/zhandouxiaojiji/skynet.git
 [submodule "proj/test"]
 	path = proj/test
-	url = https://github.com/zhandouxiaojiji/test.git
+	url = https://github.com/zhandouxiaojiji/bewater-test.git
 [submodule "proj/share"]
 	path = proj/share
-	url = https://github.com/zhandouxiaojiji/share.git
+	url = https://github.com/zhandouxiaojiji/bewater-share.git
 [submodule "proj/backup"]
 	path = proj/backup
-	url = https://github.com/zhandouxiaojiji/backup.git
+	url = https://github.com/zhandouxiaojiji/bewater-backup.git
